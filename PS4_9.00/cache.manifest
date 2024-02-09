@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+pOOBs4/int64.js
+pOOBs4/kexploit.js
+pOOBs4/rop.js
+PSFree/exploit.mjs
+PSFree/int64.mjs
+PSFree/mem.mjs
+PSFree/offset.mjs
+PSFree/rw.mjs
+PSFree/utils.mjs
+goldhen.bin
+index.html
+
+NETWORK:
+*
