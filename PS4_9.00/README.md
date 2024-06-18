@@ -11,7 +11,7 @@ This project is based on **[PSFree](https://wololo.net/downloads/index.php/downl
 - Delete Cookies and Clear Website Data
 - Open **[bit.ly/PS4_900](https://krisztiankende.github.io/PS4_9.00)** for latest stable GoldHEN
   - or **[bit.ly/PS4_900_Beta](https://krisztiankende.github.io/PS4_9.00/Beta)** for latest version, beta or stable
-  - or **[bit.ly/PS4_900_Lite](https://krisztiankende.github.io/PS4_9.00/Lite)** for lite-weight version, 2.0b2
+  - or **[bit.ly/PS4_900_Lite](https://krisztiankende.github.io/PS4_9.00/Lite)** for lite-weight version
   - or **[bit.ly/PS4_900_21](https://krisztiankende.github.io/PS4_9.00/2.1)** for 2.1.x
   - or **[bit.ly/PS4_900_22](https://krisztiankende.github.io/PS4_9.00/2.2)** for 2.2.x
   - or **[bit.ly/PS4_900_23](https://krisztiankende.github.io/PS4_9.00/2.3)** for 2.3.x
